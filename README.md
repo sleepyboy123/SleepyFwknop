@@ -40,11 +40,19 @@ Start Website
 # To Do List
 
 Get FWKNOP Running on Client & Server Machine
+
 When ReactJS Sends a POST Request to the NodeJS API,
+
 NodeJS API will exec a cmd to send a SPA Packet to Authenticate itself.
+
 Wait for a couple of seconds
+
 NodeJS will then establish an SSH connection
+
 Wait for a couple of seconds
+
 Execute Python Script to do CRUD on the Server Machine
+
 NodeJS will receive cmd line response from Server Machine
+
 NodeJS will forward cmd line response to ReactJS
